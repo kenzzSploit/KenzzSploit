@@ -13,4 +13,4 @@ kode error = masuk rumah sakit😭😭
 
 ---
 
-> ☕ “hidup tenang tuh overrated, gw pilih bug sama kopi aja.”
+> ☕ “hidup tenang tuh overrated, tapi gw pilih bug sama kopi aja.”
