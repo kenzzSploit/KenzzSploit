@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 gw kenzz — ngoding buat seneng, stres juga iya.  
-satu bug ilang, dua lagi nongol, tapi yaudah lah 😭  
+perbaiki satu BUG, malah nambah lagi, tapi yaudah lah 😭  
 kode jalan = bahagia 💻🔥  
 kode error = masuk rumah sakit 😭😭
 
